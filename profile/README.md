@@ -9,15 +9,15 @@
 </div>
 
 ## 📚Table of Contents
-- [Medium](#-medium)
-- [Demo Video](#-demo-video)
-- [System Architechture](#-system-architechture)
-- [Tech stack](#-tech-stack)
-- [ERD](#-erd)
-- [API](#-api)
-- [Monitoring](#-monitoring)
-- [How to Start](#-how-to-start)
-- [Member](#-member)
+- [Medium](#-Medium)
+- [Demo Video](#-Demo-Video)
+- [System Architechture](#-System-Architechture)
+- [Tech stack](#-Tech-Stack)
+- [ERD](#-ERD)
+- [API](#-API)
+- [Monitoring](#-Monitoring)
+- [How to Start](#-How-to-Start)
+- [Member](#-Member)
 
 ## 📚Medium
 🇰🇷 [Medium Korean.ver]()
