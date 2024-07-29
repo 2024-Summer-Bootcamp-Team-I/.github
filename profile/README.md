@@ -8,26 +8,26 @@
 
 </div>
 
-## 📚Table of Contents
-- [Medium](#Medium)
-- [Demo Video](#Demo-Video)
-- [System Architechture](#System-Architechture)
-- [Tech stack](#Tech-Stack)
-- [ERD](#ERD)
-- [API](#API)
-- [Monitoring](#Monitoring)
-- [How to Start](#How-to-Start)
-- [Member](#Member)
+## 📚 Table of Contents
+- [Medium](#-Medium)
+- [Demo Video](#-Demo-Video)
+- [System Architechture](#-System-Architechture)
+- [Tech stack](#-Tech-Stack)
+- [ERD](#-ERD)
+- [API](#-API)
+- [Monitoring](#-Monitoring)
+- [How to Start](#-How-to-Start)
+- [Member](#-Member)
 
-## 📚Medium
+## 📚 Medium
 🇰🇷 [Medium Korean.ver]()
 <br>🇺🇸 [Medium English.ver]()
 
-## 📚Demo Video
+## 📚 Demo Video
 
-## 📚System Architechture
+## 📚 System Architechture
 
-## 📚Tech stack
+## 📚 Tech stack
 
 |Area|Tech Stack|
 |:---:|:---:|
@@ -38,15 +38,15 @@
 |<b>Monitoring</b>||
 |<b>etc</b>||
 
-## 📚ERD
+## 📚 ERD
 
-## 📚API
+## 📚 API
 
-## 📚Monitoring
+## 📚 Monitoring
 
-## 📚How to Start
+## 📚 How to Start
 
-## 📚Member
+## 📚 Member
 
 |Name|최지혜|김보배|임동연|백지윤|박성현|한승곤|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
