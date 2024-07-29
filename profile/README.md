@@ -5,9 +5,7 @@
   
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
 
-  
-<br>GPT를 활용하여 뉴스 기사들을 감정 별로 분류하고,
-<br>검증된 데이터 셋을 기반으로 한 기사는 신뢰도를 제공하는 서비스
+
 </div>
 
 ## 📚Table of Contents
