@@ -1,6 +1,6 @@
 # 📰 News Inside
 <div align=center>
-<br><img src="https://github.com/user-attachments/assets/aa71c2a1-35ea-4fd5-b5b6-6742abce32d6">
+<br><img src="https://github.com/user-attachments/assets/cf86294c-325d-4a8c-bfe5-bd3565415219">
 
   
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
