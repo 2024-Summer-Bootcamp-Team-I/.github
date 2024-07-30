@@ -1,9 +1,6 @@
 # 📰 News Inside
 <div align=center>
-
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
-
-
 </div>
 
 ## 📚 Table of Contents
@@ -23,6 +20,7 @@
 ## 📚 Demo Video
 
 ## 📚 System Architechture
+<img src="https://github.com/user-attachments/assets/dcf1b700-d381-46c9-b32f-07dc720252bd">
 
 ## 📚 Tech stack
 
@@ -36,10 +34,13 @@
 |<b>etc</b>||
 
 ## 📚 ERD
+<img src="https://github.com/user-attachments/assets/b049273a-43a4-48ed-86b1-0b789d8397c1">
 
 ## 📚 API
 
 ## 📚 Monitoring
+<img src="https://github.com/user-attachments/assets/89f3a022-aef7-4271-acd6-005bea963012">
+<img src="https://github.com/user-attachments/assets/123397a4-e78f-469b-b332-dbd4ac514d71">
 
 ## 📚 How to Start
 
