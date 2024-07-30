@@ -14,15 +14,15 @@
 - [How to Start](#-How-to-Start)
 - [Member](#-Member)
 
-## 📚 Medium
+## 📑 Medium
 ✔️ [Medium]()
 
-## 📚 Demo Video
+## 📹 Demo Video
 
-## 📚 System Architechture
+## 💻 System Architechture
 <img src="https://github.com/user-attachments/assets/dcf1b700-d381-46c9-b32f-07dc720252bd">
 
-## 📚 Tech stack
+## 🛠️ Tech stack
 
 |Area|Tech Stack|
 |:---:|:---:|
@@ -33,18 +33,21 @@
 |<b>Monitoring</b>||
 |<b>etc</b>||
 
-## 📚 ERD
+## 💾 ERD
 <img src="https://github.com/user-attachments/assets/b049273a-43a4-48ed-86b1-0b789d8397c1">
 
-## 📚 API
+## ✨ API
 
-## 📚 Monitoring
-<img src="https://github.com/user-attachments/assets/89f3a022-aef7-4271-acd6-005bea963012">
+## 📊 Monitoring
+### Prometheus & Grafana
 <img src="https://github.com/user-attachments/assets/123397a4-e78f-469b-b332-dbd4ac514d71">
 
-## 📚 How to Start
+### cAdvisor
+<img src="https://github.com/user-attachments/assets/89f3a022-aef7-4271-acd6-005bea963012">
 
-## 📚 Member
+## 🚀 How to Start
+
+## 👥 Member
 
 |Name|최지혜|김보배|임동연|백지윤|박성현|한승곤|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
