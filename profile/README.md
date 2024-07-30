@@ -18,7 +18,7 @@
 - [Member](#-Member)
 
 ## 📚 Medium
-🇰🇷 [Medium Korean.ver]()
+✔️ [Medium]()
 
 ## 📚 Demo Video
 
