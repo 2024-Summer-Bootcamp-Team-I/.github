@@ -1,8 +1,6 @@
 # 📰 News Inside
 <div align=center>
-<br><img src="https://github.com/user-attachments/assets/cf86294c-325d-4a8c-bfe5-bd3565415219">
 
-  
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
 
 
@@ -21,7 +19,6 @@
 
 ## 📚 Medium
 🇰🇷 [Medium Korean.ver]()
-<br>🇺🇸 [Medium English.ver]()
 
 ## 📚 Demo Video
 
