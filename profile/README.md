@@ -1,4 +1,4 @@
-# 📰 News Inside
+z# 📰 News Inside
 <div align=center>
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
 </div>
@@ -20,6 +20,7 @@
 ## 📹 Demo Video
 ### 💡 스크랩
 ![ezgif com-resize](https://github.com/user-attachments/assets/e4f3c45c-40b3-4b1a-bbd7-603f3316ae3f)
+![스크랩 (1)](https://github.com/user-attachments/assets/d1281a33-ad44-4509-8439-266580a6cc97)
 
 ### 💡 관련 기사 타임라인
 
