@@ -18,7 +18,7 @@
 ✔️ [Medium]()
 
 ## 📹 Demo Video
-<img src="https://github.com/user-attachments/assets/6676fcc6-2145-4df3-9f20-b8dd8ae6b617">
+![ezgif com-resize](https://github.com/user-attachments/assets/e4f3c45c-40b3-4b1a-bbd7-603f3316ae3f)
 
 ## 💻 System Architechture
 <img src="https://github.com/user-attachments/assets/dcf1b700-d381-46c9-b32f-07dc720252bd">
