@@ -19,8 +19,8 @@ z# 📰 News Inside
 
 ## 📹 Demo Video
 ### 💡 스크랩
-![ezgif com-resize](https://github.com/user-attachments/assets/e4f3c45c-40b3-4b1a-bbd7-603f3316ae3f)
-![스크랩 (1)](https://github.com/user-attachments/assets/d1281a33-ad44-4509-8439-266580a6cc97)
+![gif용_스크랩](https://github.com/user-attachments/assets/8bcb421a-88cc-4e67-8376-6cf62438663a)
+
 
 ### 💡 관련 기사 타임라인
 
@@ -32,6 +32,7 @@ z# 📰 News Inside
 
 
 ### 💡 분석 통계
+![gif용_분석통계](https://github.com/user-attachments/assets/4d10e2d7-4cf3-4983-a38a-091926397af7)
 
 
 
@@ -67,6 +68,6 @@ z# 📰 News Inside
 
 |Name|최지혜|김보배|임동연|백지윤|박성현|한승곤|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Profile|![최지혜](https://github.com/jihye1006.png)|![김보배](https://github.com/Kimbobae1.png)|![임동연](https://github.com/caosisa.png)|![백지윤](https://github.com/baekjiyun.png)|![박성현](https://github.com/NightStar96.png)|![한승곤](https://github.com/invalidhuman.png)|
+|Profile|![최지혜](https://github.com/user-attachments/assets/5b27840c-9429-41cb-8bee-bd36cc371180)|![김보배](https://github.com/user-attachments/assets/6e7b12e0-47f2-42f5-9e48-43806372c10d)|![임동연](https://github.com/user-attachments/assets/92615d5a-c8e9-4bfe-9800-f01833c11627)|![백지윤](https://github.com/user-attachments/assets/b28051e5-a75b-4101-95b4-6814ac84a366)|![박성현](https://github.com/user-attachments/assets/536deac2-a19e-4437-8593-8caefa059ecc)|![한승곤](https://github.com/user-attachments/assets/faba8d19-f08a-4c10-86d4-2d1147cad1f0)|
 |Role|Leader, Backend, DevOps|Backend, DevOps|Backend, DevOps|Frontend|Frontend|Frontend|
 |GitHub|<a href="https://github.com/jihye1006"><img src="http://img.shields.io/badge/jihye1006-green?style=social&logo=github"/></a>|<a href="https://github.com/Kimbobae1"><img src="http://img.shields.io/badge/Kimbobae1-green?style=social&logo=github"/></a>|<a href="https://github.com/caosisa"><img src="http://img.shields.io/badge/caosisa-green?style=social&logo=github"/></a>|<a href="https://github.com/baekjiyun"><img src="http://img.shields.io/badge/baekjiyun-green?style=social&logo=github"/></a>|<a href="https://github.com/NightStar96"><img src="http://img.shields.io/badge/NightStar96-green?style=social&logo=github"/></a>|<a href="https://github.com/invalidhuman"><img src="http://img.shields.io/badge/invalidhuman-green?style=social&logo=github"/></a>|
