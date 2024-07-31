@@ -18,7 +18,21 @@
 ✔️ [Medium]()
 
 ## 📹 Demo Video
+### 💡 스크랩
 ![ezgif com-resize](https://github.com/user-attachments/assets/e4f3c45c-40b3-4b1a-bbd7-603f3316ae3f)
+
+### 💡 관련 기사 타임라인
+
+
+### 💡 스크랩한 기사
+
+
+### 💡 판별된 기사
+
+
+### 💡 분석 통계
+
+
 
 ## 💻 System Architechture
 <img src="https://github.com/user-attachments/assets/dcf1b700-d381-46c9-b32f-07dc720252bd">
