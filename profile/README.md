@@ -1,10 +1,9 @@
 # 📰 News Inside
 <div align=center>
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
-  <br><br>평소 뉴스 기사의 신뢰도가 궁금하셨나요? 
+  <br><br>평소 뉴스 기사의 신뢰도가 궁금하셨나요?
   <br><br>또는 같은 주제에 대해 다양한 시각을 제공하는 기사를 찾고 싶으셨나요? 
-  <br><br>NEWS INSIDE는 이러한 궁금증을 해결하기 위해 개발되었습니다. 
-  <br><br>감정 분석과 신뢰도 평가를 통해 사용자에게 균형 잡힌 시각으로 뉴스를 제공합니다.
+  <br><br><b>NEWS INSIDE</b>는 감정 분석과 신뢰도 평가를 통해 사용자에게 균형 잡힌 시각으로 뉴스를 제공합니다.
 
 </div>
 
