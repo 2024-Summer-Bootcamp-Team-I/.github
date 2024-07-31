@@ -61,6 +61,7 @@
 <img src="https://github.com/user-attachments/assets/b049273a-43a4-48ed-86b1-0b789d8397c1">
 
 ## ✨ API
+![image](https://github.com/user-attachments/assets/854e6e59-9c5a-4b42-bb1d-9534d3413035)
 
 ## 📊 Monitoring
 ### Prometheus & Grafana
