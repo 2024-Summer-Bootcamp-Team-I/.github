@@ -19,11 +19,11 @@
 
 ## 📹 Demo Video
 ### 💡 스크랩
-![gif용_스크랩](https://github.com/user-attachments/assets/8bcb421a-88cc-4e67-8376-6cf62438663a)
+![gif용_스크랩](https://github.com/user-attachments/assets/839efc4a-b24e-4ef5-b226-e586576f066a)
 
 
 ### 💡 관련 기사 타임라인
-![gif용_타임라인 (1)](https://github.com/user-attachments/assets/099166d1-d96c-4ab5-8847-bbc2b0e42fa4)
+![gif용_타임라인](https://github.com/user-attachments/assets/974220c2-53aa-48aa-956b-0d3571384040)
 
 
 ### 💡 스크랩한 기사
@@ -31,10 +31,11 @@
 
 
 ### 💡 판별된 기사
+![gif용_판별된 기사 조회, c본문 ](https://github.com/user-attachments/assets/af48a406-dd5c-4e9d-a92e-71eb81d840ae)
 
 
 ### 💡 분석 통계
-![gif용_분석통계](https://github.com/user-attachments/assets/4d10e2d7-4cf3-4983-a38a-091926397af7)
+![gif용_분석통계](https://github.com/user-attachments/assets/dd31aef7-3a94-48b5-bce5-180e62b8e0f3)
 
 
 
