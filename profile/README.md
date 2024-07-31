@@ -1,6 +1,11 @@
 # 📰 News Inside
 <div align=center>
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
+  <br><br>평소 뉴스 기사의 신뢰도가 궁금하셨나요? 
+  <br><br>또는 같은 주제에 대해 다양한 시각을 제공하는 기사를 찾고 싶으셨나요? 
+  <br><br>NEWS INSIDE는 이러한 궁금증을 해결하기 위해 개발되었습니다. 
+  <br><br>감정 분석과 신뢰도 평가를 통해 사용자에게 균형 잡힌 시각으로 뉴스를 제공합니다.
+
 </div>
 
 ## 📚 Table of Contents
@@ -66,6 +71,41 @@
 <img src="https://github.com/user-attachments/assets/89f3a022-aef7-4271-acd6-005bea963012">
 
 ## 🚀 How to Start
+#### 1. Clone The Repository
+```
+https://github.com/2024-Summer-Bootcamp-Team-I/Backend.git
+https://github.com/2024-Summer-Bootcamp-Team-I/Frontend.git
+```
+#### 2. ENV Setting
+- Backend/.env
+```
+POSTGRES_DB=
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_HOST=
+POSTGRES_PORT=
+GOOGLE_APPLICATION_CREDENTIALS=
+OPENAI_API_KEY=""
+OPENSEARCH_ID=
+OPENSEARCH_PASSWORD=
+OPENSEARCH_URL=
+```
+#### 3. Run Docker
+```
+docker-compose up --build
+```
+#### 4. Chrome Extension
+##### 1. 확장 프로그램 빌드
+```
+yarn build
+```
+  - 위 명령어를 실행하면 dist 폴더에 배포 가능한 파일들이 생성
+##### 2. Chrome 확장 프로그램 로드
+  1. chrome://extensions/ 접속
+  2. 페이지 우측 상단에 있는 “개발자 모드” 토글 활성화
+  3. “압축 해제된 확장 프로그램 로드” 버튼을 클릭
+  4. 빌드된 dist 폴더의 경로를 선택
+  5. 확장 프로그램이 정상적으로 로드되면 확장 프로그램 목록에 새 확장 프로그램이 생성
 
 ## 👥 Member
 
