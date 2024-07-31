@@ -27,9 +27,6 @@
 
 
 ### 💡 스크랩한 기사
-![스크랩조회, a본문](https://github.com/user-attachments/assets/69807a4b-dd45-488c-a66e-9adfc3b3dedb)
-![스크랩조회, a본문1](https://github.com/user-attachments/assets/d37fa4d5-4070-4524-84e3-bcce8d4db29e)
-![스크랩조회, a본문2](https://github.com/user-attachments/assets/86194eb1-20de-417b-ac95-2488fd2dbf4e)
 ![스크랩조회, a본문3](https://github.com/user-attachments/assets/26c7a680-3453-4850-8d70-b64a1eaef8a9)
 
 
