@@ -1,4 +1,4 @@
-z# 📰 News Inside
+# 📰 News Inside
 <div align=center>
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
 </div>
@@ -15,7 +15,7 @@ z# 📰 News Inside
 - [Member](#-Member)
 
 ## 📑 Medium
-✔️ [Medium]()
+✔️ [Medium](https://medium.com/@cndgml707/2024-summer-silicon-valley-bootcamp-news-inside-80e37510814b)
 
 ## 📹 Demo Video
 ### 💡 스크랩
