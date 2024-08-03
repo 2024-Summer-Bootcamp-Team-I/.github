@@ -1,4 +1,5 @@
 # 📰 News Inside
+### <p align = center>🎉 2024 Techeer Summer BootCamp 2등 🎉</p>
 <div align=center>
 <br><img src="https://github.com/user-attachments/assets/703ba407-91a9-434f-879a-cacb1ee1e24f">
   <br><br>평소 뉴스 기사의 신뢰도가 궁금하셨나요?
